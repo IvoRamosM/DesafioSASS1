@@ -1,0 +1,12 @@
+.header {
+    background-color: aqua;
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .logo-header img{
+        height: 90px;
+        width: 120px;
+        
+    }
+}

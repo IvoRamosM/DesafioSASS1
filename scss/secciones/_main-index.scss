@@ -1,0 +1,17 @@
+
+.main-index{
+    background-color: crimson;
+    text-align: center;
+    min-height: 70vh;
+    .card{
+        margin: 0 auto;
+        max-width: 350px;
+        h2{
+            font-family: sans-serif;
+            &:hover{
+                color: blue;
+                background-color: black;
+            }
+        }
+    }
+}
